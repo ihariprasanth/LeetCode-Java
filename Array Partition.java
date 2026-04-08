@@ -8,7 +8,6 @@ class Solution {
         for (int i = 0; i < nums.length; i += 2) {
             sum += nums[i];
         }
-
-        return sum;
+        return sum;  
     }
 }
