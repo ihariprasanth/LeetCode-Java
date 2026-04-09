@@ -1,5 +1,4 @@
-import java.util.Arrays;
-
+import java.util.Arrays; 
 class Solution {
     public int arrayPairSum(int[] nums) {
         Arrays.sort(nums);
